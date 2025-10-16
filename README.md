@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AugustoBardales
-- 👀 I’m interested la visión artificial
+- 👀 I’m interested la vision artificial
 - 🌱 Actualmente estoy aprendiendo  a programar
 - 💞️ Estoy buscando colaborar en  inteligencia artificial
-- 📫 Cómo contactarme por telegram @lebardax 
+- 📫 Cómo contactarme por telegram @augustoabardañes
 
 <!---
 AugustoBardales/AugustoBardales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
